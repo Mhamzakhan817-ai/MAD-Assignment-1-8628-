@@ -33,4 +33,4 @@ User can switch themes with a toggle button.
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/Mhamzakhan817-ai/MAD-Assignment-1-8628-.git
